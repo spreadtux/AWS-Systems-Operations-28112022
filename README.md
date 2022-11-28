@@ -162,3 +162,4 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-reso
 Cloudformation Designer :
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/working-with-templates-cfn-designer-overview.html
 https://console.aws.amazon.com/cloudformation/designer
+https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/cloudformation.html
