@@ -166,3 +166,6 @@ https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/cloudformation.h
 
 CDK :
 https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
+
+AWS Toolkit for vscode :
+https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html
