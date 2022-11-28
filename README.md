@@ -171,3 +171,7 @@ https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
 
 AWS Toolkit for vscode :
 https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html
+
+AWS Control Tower :
+https://aws.amazon.com/fr/controltower/
+https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html
