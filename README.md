@@ -176,3 +176,6 @@ https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html
 AWS Control Tower :
 https://aws.amazon.com/fr/controltower/
 https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html
+
+AWS Services Health checks :
+https://health.aws.amazon.com/health/home#/account/dashboard/open-issues
