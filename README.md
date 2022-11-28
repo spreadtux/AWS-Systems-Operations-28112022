@@ -157,6 +157,7 @@ https://workshops.aws/
 https://aws.amazon.com/fr/image-builder/
 
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/troubleshooting.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cloudformation-limits.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html
