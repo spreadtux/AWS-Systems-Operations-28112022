@@ -148,8 +148,6 @@ https://aws.amazon.com/cloud9/
 
 https://docs.aws.amazon.com/servicequotas/latest/userguide/sq-tagging.html
 
-https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-resource-groups.html
-
 https://www.wellarchitectedlabs.com/
 
 https://workshops.aws/
@@ -179,3 +177,9 @@ https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.
 
 AWS Services Health checks :
 https://health.aws.amazon.com/health/home#/account/dashboard/open-issues
+
+AWS Systems Manager :
+https://aws.amazon.com/fr/systems-manager/
+https://aws.amazon.com/fr/systems-manager/features/?pg=ln&sec=hs
+https://docs.aws.amazon.com/fr_fr/systems-manager/latest/userguide/what-is-systems-manager.html
+https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-resource-groups.html
