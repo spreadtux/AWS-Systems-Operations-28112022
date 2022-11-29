@@ -164,6 +164,7 @@ Cloudformation Designer :
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/working-with-templates-cfn-designer-overview.html
 https://console.aws.amazon.com/cloudformation/designer
 https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/cloudformation.html
+https://aws.amazon.com/fr/blogs/mt/implement-automatic-drift-remediation-for-aws-cloudformation-using-amazon-cloudwatch-and-aws-lambda/
 
 CDK :
 https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
