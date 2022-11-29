@@ -184,3 +184,4 @@ https://aws.amazon.com/fr/systems-manager/
 https://aws.amazon.com/fr/systems-manager/features/?pg=ln&sec=hs
 https://docs.aws.amazon.com/fr_fr/systems-manager/latest/userguide/what-is-systems-manager.html
 https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-resource-groups.html
+https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-patch-patchgroups.html
