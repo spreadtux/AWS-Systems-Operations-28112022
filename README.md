@@ -188,6 +188,7 @@ https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-patch-patchg
 
 ELB :
 https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-troubleshooting.html#load-balancer-http-error-codes
 
 Route53 :
 https://docs.aws.amazon.com/route53/
