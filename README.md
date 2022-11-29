@@ -198,3 +198,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html
 
 Cloudwatch :
 https://docs.aws.amazon.com/cloudwatch/
+
+Eventbridge :
+https://docs.aws.amazon.com/eventbridge/
