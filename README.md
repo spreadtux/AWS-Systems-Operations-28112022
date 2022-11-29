@@ -201,3 +201,6 @@ https://docs.aws.amazon.com/cloudwatch/
 
 Eventbridge :
 https://docs.aws.amazon.com/eventbridge/
+
+X-Ray :
+https://docs.aws.amazon.com/xray/index.html
