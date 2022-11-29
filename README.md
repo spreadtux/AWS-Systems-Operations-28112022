@@ -192,3 +192,6 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 
 Route53 :
 https://docs.aws.amazon.com/route53/
+
+Spot Instances :
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html
