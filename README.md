@@ -228,3 +228,13 @@ https://aws.amazon.com/waf/pricing/?nc1=h_ls
 ACM :
 https://docs.aws.amazon.com/acm/
 https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html
+
+Third party tool :
+https://instances.vantage.sh/
+
+EBS :
+https://docs.aws.amazon.com/ebs/
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
+
+Instance Store :
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
