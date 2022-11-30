@@ -254,3 +254,6 @@ https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.htmlc
 
 Cost optimization LAB :
 https://wellarchitectedlabs.com/cost/300_labs/300_automated_cur_query_and_email_delivery/
+
+Overview of Security Processes whitepaper :
+https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf
