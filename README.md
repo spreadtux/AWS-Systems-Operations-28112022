@@ -218,3 +218,4 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.
 WAF :
 https://docs.aws.amazon.com/waf/
 https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html
+https://aws.amazon.com/waf/pricing/?nc1=h_ls
