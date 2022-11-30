@@ -224,3 +224,7 @@ https://aws.amazon.com/waf/pricing/?nc1=h_ls
     
     AWS Shield Advanced :
     https://docs.aws.amazon.com/waf/latest/developerguide/ddos-advanced-summary.html
+
+ACM :
+https://docs.aws.amazon.com/acm/
+https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html
