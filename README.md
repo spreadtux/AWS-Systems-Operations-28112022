@@ -247,6 +247,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
 AWS Pricing calculator :
 https://calculator.aws/#/
 
-AWS Coste and Pricing Management :
+AWS Cost and Pricing Management :
 https://docs.aws.amazon.com/account-billing/
 https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html
+https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html
