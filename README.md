@@ -219,3 +219,8 @@ WAF :
 https://docs.aws.amazon.com/waf/
 https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html
 https://aws.amazon.com/waf/pricing/?nc1=h_ls
+    AWS Shield Standard (free of charge) :
+    https://docs.aws.amazon.com/waf/latest/developerguide/ddos-standard-summary.html
+    
+    AWS Shield Advanced :
+    https://docs.aws.amazon.com/waf/latest/developerguide/ddos-advanced-summary.html
