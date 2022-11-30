@@ -250,4 +250,7 @@ https://calculator.aws/#/
 AWS Cost and Pricing Management :
 https://docs.aws.amazon.com/account-billing/
 https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html
-https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html
+https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.htmlc
+
+Cost optimization LAB :
+https://wellarchitectedlabs.com/cost/300_labs/300_automated_cur_query_and_email_delivery/
