@@ -235,6 +235,7 @@ https://instances.vantage.sh/
 EBS :
 https://docs.aws.amazon.com/ebs/
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using_cloudwatch_ebs.html
 
 Instance Store :
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
