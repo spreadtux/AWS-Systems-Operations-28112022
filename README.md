@@ -204,3 +204,6 @@ https://docs.aws.amazon.com/eventbridge/
 
 X-Ray :
 https://docs.aws.amazon.com/xray/index.html
+
+CIDR RANGE VISUALIZER :
+https://cidr.xyz/
