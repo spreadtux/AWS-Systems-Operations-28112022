@@ -207,3 +207,7 @@ https://docs.aws.amazon.com/xray/index.html
 
 CIDR RANGE VISUALIZER :
 https://cidr.xyz/
+
+VPC :
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html#flow-logs-pricing
