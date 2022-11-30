@@ -242,3 +242,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
 
 S3 :
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
+
+AWS Pricing calculator :
+https://calculator.aws/#/
+
