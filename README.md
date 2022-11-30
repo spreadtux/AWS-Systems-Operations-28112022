@@ -258,6 +258,10 @@ https://wellarchitectedlabs.com/cost/300_labs/300_automated_cur_query_and_email_
 Overview of Security Processes whitepaper :
 https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf
 
+
+AWS Postcast :
+https://aws.amazon.com/podcasts
+
 AWS Training :
 https://aws.amazon.com/training/
 
