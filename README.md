@@ -214,3 +214,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html#flow-logs-pricin
 
 Cloudfront :
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+
+WAF :
+https://docs.aws.amazon.com/waf/
+https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html
